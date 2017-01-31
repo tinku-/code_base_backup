@@ -1,0 +1,24 @@
+import java.awt.*;
+import java.awt.event.*;
+
+class MyFrame1 extends Frame
+{
+	MyFrame1()
+	{
+		addWindowListener(new wl());
+	}
+	public static void main(String args[])
+	{
+		Frame f =new Frame("");
+		f.setSize(400,500);
+		f.setVisible(true);
+	}
+	class wl extends WindowAdapter
+	{
+		public void windowClosing(WindowEvent e)
+		{
+			System.out.println("Window is cool closing");
+			System.exit(0);
+		}
+	}
+}

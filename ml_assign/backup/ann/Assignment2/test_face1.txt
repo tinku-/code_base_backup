@@ -1,0 +1,13 @@
+faces_4/kk49/kk49_straight_sad_open_4.pgm
+faces_4/karyadi/karyadi_straight_sad_sunglasses_4.pgm
+faces_4/phoebe/phoebe_straight_happy_sunglasses_4.pgm
+faces_4/phoebe/phoebe_straight_sad_open_4.pgm
+faces_4/at33/at33_straight_happy_open_4.pgm
+faces_4/megak/megak_straight_sad_open_4.pgm
+faces_4/boland/boland_straight_sad_open_4.pgm
+faces_4/an2i/an2i_straight_sad_sunglasses_4.pgm
+faces_4/steffi/steffi_straight_neutral_sunglasses_4.pgm
+faces_4/sz24/sz24_straight_happy_sunglasses_4.pgm
+faces_4/sz24/sz24_straight_angry_sunglasses_4.pgm
+faces_4/tammo/tammo_straight_happy_sunglasses_4.pgm
+faces_4/tammo/tammo_straight_happy_open_4.pgm
